@@ -26,6 +26,8 @@ It begins with:
          id="tspan3748">p </tspan>
 ```
 
+If you have tried with ```exiftool``` or ```hexeditor``` - good for you. Remember, flag can be everywhere. It's good to know more tools.
+
 ## 🔗 Links
 [[https://play.picoctf.org/practice/challenge/265]](https://play.picoctf.org/practice/challenge/265)
 
