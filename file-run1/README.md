@@ -8,7 +8,7 @@ Challenge from picoCTF 2022.
 ## Challenge description
 
 A program has been provided to you, what happens if you try to run it on the command line?
-Download the program [[here]](https://artifacts.picoctf.net/c/395/message.txt).
+Download the program [[here]](https://artifacts.picoctf.net/c/309/run).
 
 ## Explained
 
