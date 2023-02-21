@@ -14,6 +14,8 @@ Download the message [[here]](https://artifacts.picoctf.net/c/380/message.txt).
 
 Download the message using ```wget```. Show message using ```cat message.txt```. At the bottom we can see something looking similar to flag we are looking for. We know it's substition cipher and we see key at the begining. Each letter we can compare to the letter from our alphabet. For example: Q->A, W->B. Let's create simple python script to see it.
 
+You can skip it, it's more recommended to use full tool. Read if you want decode it by yourself or slide down.
+
 ```python3
 #!/usr/bin/env python3
 
