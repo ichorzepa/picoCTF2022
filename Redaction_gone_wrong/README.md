@@ -1,5 +1,5 @@
 
-# rail-fence
+# patchme.py
 
 Challenge from picoCTF 2022.
 
