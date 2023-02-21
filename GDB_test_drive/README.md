@@ -8,7 +8,7 @@ Challenge from picoCTF 2022.
 ## Challenge description
 
 Can you get the flag?
-Download this [binary]](https://artifacts.picoctf.net/c/116/gdbme)
+Download this [[binary]](https://artifacts.picoctf.net/c/116/gdbme)
 Here's the test drive instructions:
 ```linux
 $ chmod +x gdbme
