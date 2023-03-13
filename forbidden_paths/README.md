@@ -9,6 +9,11 @@ Challenge from picoCTF 2022.
 
 Can you get the flag? Here's the [website](http://saturn.picoctf.net:54554/). We know that the website files live in ```/usr/share/nginx/html/``` and the flag is at ```/flag.txt``` but the website is filtering absolute file paths. Can you get past the filter to read the flag?
 
+## Explained
+
+Replace ```/usr/share/nginx/html/``` with ```/../.../../../``` and add flag.txt to the end of this string. Submit.
+
+
 ## 🔗 Links
 [[https://play.picoctf.org/practice/challenge/270]](https://play.picoctf.org/practice/challenge/270)
 
