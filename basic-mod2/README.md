@@ -54,7 +54,7 @@ characters.append('_')
 
 You can see, here we start from 0 to 26 for uppercase ASCI letters while in quest description characters 1-26 are the alphabet. Later we just get our modular inversion result and substract 1.
 
-Now open your message.txt and for each read number make basic mod operation (using % character). Then append flag with correct character from our simple dictionary.
+Now open your message.txt and for each read number make reverse mod operation. Then append flag with correct character from our simple dictionary.
 
 ```python
 with open("message.txt") as mess:
